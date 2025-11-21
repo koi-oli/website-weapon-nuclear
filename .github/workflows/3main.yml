@@ -252,8 +252,3 @@ jobs:
           echo ""
           echo "📊 Complete sync log:"
           cat /tmp/desktop_sync.log
-```
-
-Now when you run the workflow, look at the **GitHub Actions logs** in the "Open LocalTunnel" step. You'll see:
-```
-🔑 TUNNEL PASSWORD: 123.45.67.89
